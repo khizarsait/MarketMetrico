@@ -11,7 +11,7 @@ website.
 
 - [@khizarsait](https://www.github.com/khizarsait)
 - [@Vijayendher Gatla](https://github.com/wizaye)
-- [@karthik]
+- [@K Sai Karthikeya](https://github.com/SaiKarthikeya-234)
 ## Contributing
 
 Contributions are always welcome!
